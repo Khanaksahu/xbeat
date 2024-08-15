@@ -1,4 +1,4 @@
-# xbeat
+# xbeat 🎧
 This project is a modern, fully-responsive e-commerce website built using React and SCSS . The application provides a seamless shopping experience with features such as product listings, a shopping cart, and a checkout process. The styling is managed using SCSS to ensure a clean and modular codebase, allowing for easy customization and maintenance.
 
 # Key Features:
